@@ -1,5 +1,5 @@
 # Домашнее задание к занятию "1.2. Страница интернет-магазина"
-[![Netology React](https://github.com/Cen-2-rion/ra-store-class/actions/workflows/web.yml/badge.svg)](https://github.com/Cen-2-rion/ra-store-class/actions/workflows/web.yml)
+[![Netology React](https://github.com/Cen-2-rion/ra-store-class/actions/workflows/web.yml/badge.svg?branch=main)](https://github.com/Cen-2-rion/ra-store-class/actions/workflows/web.yml)
 ## Ссылка на Github Pages
 https://cen-2-rion.github.io/ra-store-class/
 # React + Vite
